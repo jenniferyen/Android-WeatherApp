@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+    <string name="new_city">New city</string>
+    <string name="empty_field">This field cannot be empty</string>
+    <string name="API_error">Error calling API!</string>
+    <string name="dialog_hint">name of city</string>
+    <string name="delete_city">X</string>
+</resources>
